@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grandroid Test Myanmar</string>
+    <string name="action_settings">Settings</string>
+    <string name="karen_text">ကွ ကှ မွှ မွ့ ကွ ကှ</string>
+    <string name="explain_text">TextView1 and TextView2 are same text content but not the same language varient. TextView1 is in Sagaw Karen Style. And TextView2 is in Burmese Style.\n Same text content with different language variant font shaping.</string>
+    <string name="burmese">သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ္ဎနဆေး</string>
+</resources>
